@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+    <item
+        android:id="@+id/Up"
+        android:icon="@drawable/up"
+        android:iconTint="#4CAF50"
+
+        android:iconTintMode="src_in"
+        android:title="Up" />
+    <item
+        android:id="@+id/Delete"
+        android:icon="@drawable/delete"
+        android:iconTint="#F44336"
+
+        android:iconTintMode="src_in"
+        android:title="Delete" />
+    <item
+        android:id="@+id/Cut"
+        android:icon="@drawable/cut"
+        android:iconTint="#208ee8"
+        android:iconTintMode="src_in"
+        android:title="Cut" />
+
+</menu>

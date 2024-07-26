@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+
+    <item
+        android:id="@+id/Paste"
+        android:icon="@drawable/paste"
+        android:iconTint="#12e6c6"
+        android:iconTintMode="src_in"
+        android:title="Paste" />
+</menu>
